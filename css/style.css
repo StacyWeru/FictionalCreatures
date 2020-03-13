@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+}
+h2{
+    color: chocolate;
+    font-style:oblique;
+    font-size: 30 px;
+}
+strong{
+    color: cyan;
+}
+body{
+    font-family: serif;
+    
+
+}
