@@ -1,4 +1,10 @@
-h1{
+body {
+    font-family: serif;
+    text-align: left;
+    background-color:rgb(189, 173, 173);
+}
+
+h1 {
     color: blue;
     text-align: center;
     font-style: italic;
@@ -12,8 +18,16 @@ h2{
 strong{
     color: cyan;
 }
-body{
-    font-family: serif;
-    
 
+.columnone {
+    width: 350px;
+    float: left;
+}
+.columntwo {
+    width: 350 px;
+    float: right;
+}
+
+.columntwo p {
+    float: left;
 }
